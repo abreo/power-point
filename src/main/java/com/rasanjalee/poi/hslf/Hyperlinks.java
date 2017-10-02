@@ -18,10 +18,15 @@ limitations under the License.
 
 DOWNLOAD:
 http://svn.apache.org/repos/asf/poi/trunk/src/examples/src/org/apache/poi/hslf/examples/Hyperlinks.java
-
-
 also: 
 http://svn.apache.org/repos/asf/poi/trunk/src/examples/src/org/apache/poi/xslf/usermodel/
+
+
+1
+down vote
+Apache POI has support for both PPT file formats (97/HSLF and 2007 OOXML/XSLF). Examples can be found for the former and the latter in the projects repository. In addition, they provide an XSLF Cookbook with several usecases.
+
+
 ==================================================================== */
 
 
